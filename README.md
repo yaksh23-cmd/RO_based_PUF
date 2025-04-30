@@ -11,7 +11,7 @@ The CRO PUF is **highly configurable**, allowing users to adjust:
 It is suitable for **FPGA and ASIC** implementations.
 
 ## Features
-- **Configurable RO PUF design** with adjustable parameters
+- **Configurable RO PUF design** with added functionality of reconfigurability based on the input challenge bits c1,c2,c3.
 - **Verilog-based implementation**
 - **Supports FPGA and ASIC synthesis**
 - **Testbench for functional verification**
@@ -20,7 +20,6 @@ It is suitable for **FPGA and ASIC** implementations.
 
 ## CRO-PUf-Diagram
 
-![image](https://github.com/user-attachments/assets/9c1ef8c5-8085-450d-897c-3400158e1459)
+![image](https://github.com/user-attachments/assets/667f333b-12a0-4097-9fe3-6628a784c7c5)
 
-### In the above diagram ring oscillator unit is replaced with the feed-forward ring oscillator given below:
-![image](https://github.com/user-attachments/assets/c18747b8-6136-4374-be72-a7e43041a36d)
+![image](https://github.com/user-attachments/assets/7cad7387-c1c5-4c3a-a5ca-e34e0d6e06d3)
