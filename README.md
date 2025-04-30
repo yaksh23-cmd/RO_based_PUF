@@ -13,9 +13,9 @@ It is suitable for **FPGA and ASIC** implementations.
 ## Features
 - **Configurable RO PUF design** with added functionality of reconfigurability based on the input challenge bits c1,c2,c3.
 - **Verilog-based implementation**
-- **Supports FPGA and ASIC synthesis**
-- **Testbench for functional verification**
-- **Python scripts for evaluation and analysis**
+- **Acquires very less space in Basys 3 FPGA**
+- **UART communication has been performed**
+- **Python scripts for and analysis**
 - **Integration support for hardware security applications**
 
 ## CRO-PUf-Diagram
